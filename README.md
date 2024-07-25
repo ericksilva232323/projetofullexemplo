@@ -9,6 +9,12 @@
 # REGRA
 
 |INICIO|
+|-|
 |PLANEJAMENTO|
 |EXECUÇÃO|
 |ENCERRAMENTO|
+
+```cmd 
+
+
+```
