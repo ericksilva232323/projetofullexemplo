@@ -1,20 +1,12 @@
-# PROJETO FULL EXEMPLO
+# projeto OS - Ordem de Serviço
 
-# Autenticação JWT
+## Técnologias
 
-| OBEJTIVO GERAL | 
-| - | 
-|CONCEITO INICIAL DE REALIZAR PROJETOS. |
+||Tecnologia|Tarefa|
+|-|-|-|
+||NodeJS|API Back-End|
+||Prisma|ORM BD MySQL|
+||JWT|autenticação|
+||VsCode|IDE Back,Front|
+||JS, CSS , HTML|Front-End|
 
-# REGRA
-
-|INICIO|
-|-|
-|PLANEJAMENTO|
-|EXECUÇÃO|
-|ENCERRAMENTO|
-
-```cmd 
-
-
-```
