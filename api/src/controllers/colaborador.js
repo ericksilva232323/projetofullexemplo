@@ -46,6 +46,16 @@ const read = async (req, res) => {
         const colaborador = await prisma.colaborador.findUnique({
             where: {
                 matricula: req.params.matricula
+            },
+            select:{
+                "matricula": true,
+                "nome": true,
+                "cargo": true,
+                "cargo": true,
+                "setor": true;
+                "setor": true,
+                "oss": true,
+                "comentarios": true
             }
         });
         return res.json(colaborador);
